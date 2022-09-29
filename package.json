@@ -4,8 +4,11 @@
   "license": "Unlicense",
   "info": {
       "githubURL": "ging-moocs/MOOC_html_mod5-juego_entrega",
-      "serverUrl": "https://moocauto.dit.upm.es/",
-      "courseId": "450",
-      "assignmentId": "190"
-  }
+      "serverUrl": "https://moocbot.dit.upm.es/",
+      "courseId": "1260",
+        "assignmentId": "526"
+    },
+    "dependencies": {
+        "autocorector": "^3.1.3"
+    }
 }
