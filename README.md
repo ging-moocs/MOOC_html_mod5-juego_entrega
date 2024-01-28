@@ -5,7 +5,7 @@
 
 # Módulo 5: Tipos y clases predefinidas, el tipo number, Multi-asignación, Spread-Rest, Clases ES6 y Herencia y Ejecución de programas JS. - Entrega: Juego de disparos
 
-Versión: 14 de septiembre de 2022
+Versión: 28 de enero de 2024
 
 ## Objetivo
 
