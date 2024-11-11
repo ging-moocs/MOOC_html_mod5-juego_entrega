@@ -5,10 +5,10 @@
   "info": {
       "githubURL": "ging-moocs/MOOC_html_mod5-juego_entrega",
       "serverUrl": "https://moocbot.dit.upm.es/",
-      "courseId": "1599",
-        "assignmentId": "962"
+      "courseId": "141",
+        "assignmentId": "114"
     },
     "dependencies": {
-        "autocorector": "^3.1.3"
+        "autocorector": "^3.5.0"
     }
 }
